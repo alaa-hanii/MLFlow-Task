@@ -33,3 +33,9 @@ The best run is **[Run name]**, selected based on the lowest validation RMSE of 
    `mlflow ui`
 
 Open `http://127.0.0.1:5000` to view and compare experiment runs.
+
+<img width="1366" height="684" alt="image" src="https://github.com/user-attachments/assets/764ab09d-4118-4b4c-b65b-fba44d1d8f77" />
+<img width="1366" height="637" alt="image" src="https://github.com/user-attachments/assets/779947cf-0bde-4bb6-9a54-68ddbef07a31" />
+
+<img width="1366" height="633" alt="Screenshot 2026-10-10 001927" src="https://github.com/user-attachments/assets/ed54319e-c0ce-4ce6-be20-e8e93ab0f875" />
+
